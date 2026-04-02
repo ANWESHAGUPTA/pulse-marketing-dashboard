@@ -4,7 +4,7 @@
 
 > A full-stack marketing analytics project demonstrating end-to-end data pipeline design, from event tracking to AI-generated strategic insights — built for a fictional B2B talent assessment SaaS platform.
 
-**[View Live Dashboard →](YOUR_LOOKER_STUDIO_LINK_HERE)**
+**[View Live Dashboard →](https://lookerstudio.google.com/reporting/5665f05d-50da-4b63-a4ac-3fd768888a05)**
 **[View Landing Page →](https://joyful-salamander-d7459d.netlify.app/)**
 
 ---
