@@ -29,15 +29,6 @@
 ### GA4 Custom Events — All 9 Events Active and Tracking
 ![GA4 Events](screenshots/06-ga4-custom-events.png)
 
-### Dashboard Page 1 — Acquisition Overview
-![Dashboard Acquisition](screenshots/07-dashboard-page1-acquisition.png)
-
-### Dashboard Page 2 — Engagement Funnel
-![Dashboard Funnel](screenshots/08-dashboard-page2-funnel.png)
-
-### Dashboard Page 3 — Content Performance
-![Dashboard Content](screenshots/09-dashboard-page3-content.png)
-
 ### AI Insights — Generated via Claude API
 ![AI Insights Generated](screenshots/10-ai-insights-generated.png)
 
@@ -194,9 +185,6 @@ The prompt is engineered to produce insights specific to B2B SaaS marketing oper
     ├── 04-gtm-tags-configured.png
     ├── 05-ga4-realtime-1672-users.png
     ├── 06-ga4-custom-events.png
-    ├── 07-dashboard-page1-acquisition.png
-    ├── 08-dashboard-page2-funnel.png
-    ├── 09-dashboard-page3-content.png
     ├── 10-ai-insights-generated.png
     └── 11-dashboard-page4-ai-insights.png
 ```
