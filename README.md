@@ -4,8 +4,45 @@
 
 > A full-stack marketing analytics project demonstrating end-to-end data pipeline design, from event tracking to AI-generated strategic insights — built for a fictional B2B talent assessment SaaS platform.
 
-**[View Live Dashboard →](YOUR_LOOKER_STUDIO_LINK_HERE)**
+**[View Live Dashboard →](https://lookerstudio.google.com/reporting/5665f05d-50da-4b63-a4ac-3fd768888a05)**
 **[View Landing Page →](https://joyful-salamander-d7459d.netlify.app/)**
+
+---
+
+## Project Walkthrough
+
+### GA4 Property — 4.2k Users, 32k Events Tracked
+![GA4 Home Overview](screenshots/01-ga4-home-overview.png)
+
+### Real-Time Tracking — 1,672 Concurrent Users
+![GA4 Realtime](screenshots/05-ga4-realtime-1672-users.png)
+
+### GA4 Traffic Overview — Multi-Country Reach with Engagement Metrics
+![GA4 Traffic Overview](screenshots/02-ga4-traffic-overview.png)
+
+### GA4 Demographic Details — 120 Countries, Detailed Engagement Breakdown
+![GA4 Demographics](screenshots/03-ga4-demographic-details.png)
+
+### Google Tag Manager — 5 Tags Configured (GA4 Config + 4 Custom Events)
+![GTM Tags](screenshots/04-gtm-tags-configured.png)
+
+### GA4 Custom Events — All 9 Events Active and Tracking
+![GA4 Events](screenshots/06-ga4-custom-events.png)
+
+### Dashboard Page 1 — Acquisition Overview
+![Dashboard Acquisition](screenshots/07-dashboard-page1-acquisition.png)
+
+### Dashboard Page 2 — Engagement Funnel
+![Dashboard Funnel](screenshots/08-dashboard-page2-funnel.png)
+
+### Dashboard Page 3 — Content Performance
+![Dashboard Content](screenshots/09-dashboard-page3-content.png)
+
+### AI Insights — Generated via Claude API
+![AI Insights Generated](screenshots/10-ai-insights-generated.png)
+
+### Dashboard Page 4 — AI Weekly Insights Display
+![Dashboard AI Insights](screenshots/11-dashboard-page4-ai-insights.png)
 
 ---
 
@@ -146,10 +183,22 @@ The prompt is engineered to produce insights specific to B2B SaaS marketing oper
 ## Repository Contents
 
 ```
+├── README.md                       # Project documentation
 ├── talentflow-landing-page.html    # Landing page with GTM + event tracking
-├── apps_script_ai_insights.js      # Google Apps Script for Claude API integration
+├── apps_script_v2.js               # Google Apps Script for Claude API integration
 ├── talentflow_final.xlsx           # Sample marketing dataset (21,346 rows)
-└── README.md                       # This file
+└── screenshots/                    # Project walkthrough images
+    ├── 01-ga4-home-overview.png
+    ├── 02-ga4-traffic-overview.png
+    ├── 03-ga4-demographic-details.png
+    ├── 04-gtm-tags-configured.png
+    ├── 05-ga4-realtime-1672-users.png
+    ├── 06-ga4-custom-events.png
+    ├── 07-dashboard-page1-acquisition.png
+    ├── 08-dashboard-page2-funnel.png
+    ├── 09-dashboard-page3-content.png
+    ├── 10-ai-insights-generated.png
+    └── 11-dashboard-page4-ai-insights.png
 ```
 
 ---
