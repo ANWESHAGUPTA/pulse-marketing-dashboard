@@ -195,4 +195,4 @@ The prompt is engineered to produce insights specific to B2B SaaS marketing oper
 
 Built by **Anwesha Gupta** as a portfolio project demonstrating marketing operations and AI-powered analytics capabilities. The project simulates a real-world scenario where a marketing team at a B2B SaaS company uses data and AI to optimize their acquisition funnel.
 
-**Contact:** [Your LinkedIn] | [Your Email]
+[anweshagupta.com](https://anweshagupta.com)
